@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import cv2
 import pytesseract
-import shutup; shutup.please()
 import json
 
 class SUNEDU:
