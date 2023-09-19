@@ -30,17 +30,13 @@ pip install requests opencv-python pytesseract
 ```
 
 ## Instrucciones para usar el proyecto en Google Colab
-Recuerda ejecutar el siguiente comando para poder clonar el repositorio en Google Colab.
 
-```bash
-!git clone "https://github.com/eljoventito/SUNEDU_WEBSCRAPING.git"
-```
+1. Carga el archivo [Ejecucion_Google_Colab.ipynb](Ejecucion_Google_Colab.ipynb) en Google Colab.
 
+2. Clona el repositorio ejecutando la celda: 
 
-1. Abre el archivo [Ejecucion_Google_Colab.ipynb](Ejecucion_Google_Colab.ipynb) en Google Colab.
+3. Ejecuta la celda para instalar tesseract-ocr.
 
-2. Ejecuta la celda para instalar tesseract-ocr.
+4. Instala las librerías con los comandos pip.
 
-3. Instala las librerías con los comandos pip.
-
-4. Crea una instancia de la Clase SUNEDU.
+5. Crea una instancia de la Clase SUNEDU.
