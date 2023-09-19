@@ -27,3 +27,14 @@ Puedes instalar las bibliotecas de Python y `tesseract-ocr` utilizando pip:
 
 ```bash
 pip install requests opencv-python pytesseract
+```
+
+## Instrucciones para usar el proyecto en Google Colab
+
+1. Abre el archivo [Ejecucion_Google_Colab.ipynb](Ejecucion_Google_Colab.ipynb) en Google Colab.
+
+2. Ejecuta la celda para instalar tesseract-ocr.
+
+3. Instala las librerías con los comandos pip.
+
+4. Crea una instancia de la Clase SUNEDU.
